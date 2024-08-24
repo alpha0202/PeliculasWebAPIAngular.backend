@@ -1,0 +1,6 @@
+@PeliculasWebAPIAngular.backend_HostAddress = http://localhost:5248
+
+GET {{PeliculasWebAPIAngular.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
